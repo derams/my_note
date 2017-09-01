@@ -7,6 +7,7 @@ const obj = { name:'happypeter', b:2, c:3}
 let username = obj.name
 let bb = obj.b
 let cc = obj.c
+
 ```
 这样我们就可以吧 obj 中的数据，单独赋值给某个变量来使用了，完全不依赖结构赋值
 ```js
